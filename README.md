@@ -1,6 +1,14 @@
 # example-mongo-express-crud-api
 An example CRUD (Create, Read, Update, Delete) API built using MongoDB &amp; ExpressJS
 
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=ncloc)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=bugs)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=security_rating)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=sqale_index)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=dewhurstwill_example-mongo-express-crud-api&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=dewhurstwill_example-mongo-express-crud-api)
+
 Includes API Server utilities:
 
 * [morgan](https://www.npmjs.com/package/morgan)
